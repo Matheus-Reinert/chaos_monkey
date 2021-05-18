@@ -66,7 +66,7 @@ chaos.monkey.watcher.component=false
 ----
 ### Com o Chaos ainda desligado a tela esperada de nosso projeto traz apenas algumas cores 
 
-![](images/1-telaesperada.png)
+![](images/1-telaEsperada.png)
 
 ----
 # Dando inicio aos nossos testes com o Chaos, ativando a latência:
